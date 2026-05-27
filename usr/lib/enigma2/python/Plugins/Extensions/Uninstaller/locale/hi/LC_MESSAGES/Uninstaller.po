@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:13+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "एक ऐडऑन पैकेज चुनें और अनइंस्टॉल करें"
+
+msgid "Error Unknow"
+msgstr "त्रुटि अज्ञात"
+
+msgid "Force Remove"
+msgstr "बलपूर्वक हटाएँ"
+
+msgid "Force Removing ipk %s"
+msgstr "आईपीके %s को बलपूर्वक हटाना"
+
+msgid "Please Select the Package to Remove"
+msgstr "कृपया हटाने के लिए पैकेज का चयन करें"
+
+msgid "Please advise on forum board for issue!"
+msgstr "कृपया मुद्दे के लिए फोरम बोर्ड पर सलाह दें!"
+
+msgid "Remove"
+msgstr "निकालना"
+
+msgid "Removing dpkg %s"
+msgstr "डीपीकेजी %s को हटाया जा रहा है"
+
+msgid "Removing ipk %s"
+msgstr "आईपीके %s को हटाया जा रहा है"
+
+msgid "Select method:"
+msgstr "विधि चुनें:"
+
+msgid "Uninstaller"
+msgstr ""
+
+msgid "Wait Please..."
+msgstr "कृपया प्रतीक्षा करें..."

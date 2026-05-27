@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "ഒരു ആഡോൺ പാക്കേജ് തിരഞ്ഞെടുത്ത് അൺഇൻസ്റ്റാൾ ചെയ്യുക"
+
+msgid "Error Unknow"
+msgstr "പിശക് അറിയില്ല"
+
+msgid "Force Remove"
+msgstr "നിർബന്ധിത നീക്കം ചെയ്യുക"
+
+msgid "Force Removing ipk %s"
+msgstr "നിർബന്ധിതമായി ipk %s നീക്കംചെയ്യുന്നു"
+
+msgid "Please Select the Package to Remove"
+msgstr "നീക്കം ചെയ്യാനുള്ള പാക്കേജ് തിരഞ്ഞെടുക്കുക"
+
+msgid "Please advise on forum board for issue!"
+msgstr "പ്രശ്നത്തിന് ഫോറം ബോർഡിൽ ഉപദേശം നൽകുക!"
+
+msgid "Remove"
+msgstr "നീക്കം ചെയ്യുക"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s നീക്കം ചെയ്യുന്നു"
+
+msgid "Removing ipk %s"
+msgstr "ipk %s നീക്കം ചെയ്യുന്നു"
+
+msgid "Select method:"
+msgstr "രീതി തിരഞ്ഞെടുക്കുക:"
+
+msgid "Uninstaller"
+msgstr "അൺഇൻസ്റ്റാളർ"
+
+msgid "Wait Please..."
+msgstr "ദയവായി കാത്തിരിക്കൂ..."

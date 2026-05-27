@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Nepali <translation-team-ne@lists.sourceforge.net>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "एडअन प्याकेज छान्नुहोस् र स्थापना रद्द गर्नुहोस्"
+
+msgid "Error Unknow"
+msgstr "त्रुटि अज्ञात"
+
+msgid "Force Remove"
+msgstr "जबरजस्ती हटाउनुहोस्"
+
+msgid "Force Removing ipk %s"
+msgstr "ipk %s हटाउन बल गर्नुहोस्"
+
+msgid "Please Select the Package to Remove"
+msgstr "कृपया हटाउनको लागि प्याकेज चयन गर्नुहोस्"
+
+msgid "Please advise on forum board for issue!"
+msgstr "कृपया मुद्दाको लागि फोरम बोर्डमा सल्लाह दिनुहोस्!"
+
+msgid "Remove"
+msgstr "हटाउनुहोस्"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s हटाउँदै"
+
+msgid "Removing ipk %s"
+msgstr "ipk %s हटाउँदै"
+
+msgid "Select method:"
+msgstr "विधि चयन गर्नुहोस्:"
+
+msgid "Uninstaller"
+msgstr "स्थापना रद्द गर्ने"
+
+msgid "Wait Please..."
+msgstr "कृपया प्रतीक्षा गर्नुहोस् ..."

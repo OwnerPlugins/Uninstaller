@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:18+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "ଏକ ଆଡନ୍ ପ୍ୟାକେଜ୍ ବାଛନ୍ତୁ ଏବଂ ସଂସ୍ଥାପନ କରନ୍ତୁ |"
+
+msgid "Error Unknow"
+msgstr "ଅଜ୍ଞାତରେ ତ୍ରୁଟି |"
+
+msgid "Force Remove"
+msgstr "ଫୋର୍ସ ଅପସାରଣ କରନ୍ତୁ |"
+
+msgid "Force Removing ipk %s"
+msgstr "Ipk% s ଅପସାରଣ କରିବାକୁ ବାଧ୍ୟ |"
+
+msgid "Please Select the Package to Remove"
+msgstr "ଅପସାରଣ କରିବାକୁ ଦୟାକରି ପ୍ୟାକେଜ୍ ଚୟନ କରନ୍ତୁ |"
+
+msgid "Please advise on forum board for issue!"
+msgstr "ଇସୁ ପାଇଁ ଦୟାକରି ଫୋରମ୍ ବୋର୍ଡରେ ପରାମର୍ଶ ଦିଅନ୍ତୁ!"
+
+msgid "Remove"
+msgstr "ଅପସାରଣ କରନ୍ତୁ |"
+
+msgid "Removing dpkg %s"
+msgstr "Dpkg% s ଅପସାରଣ କରିବା |"
+
+msgid "Removing ipk %s"
+msgstr "Ipk% s ଅପସାରଣ କରୁଛି"
+
+msgid "Select method:"
+msgstr "ପଦ୍ଧତି ଚୟନ କରନ୍ତୁ:"
+
+msgid "Uninstaller"
+msgstr "ସଂସ୍ଥାପନ"
+
+msgid "Wait Please..."
+msgstr "ଦୟାକରି ଅପେକ୍ଷା କର ..."

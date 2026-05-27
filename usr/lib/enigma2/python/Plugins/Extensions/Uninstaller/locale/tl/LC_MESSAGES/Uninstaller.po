@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tagalog\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Pumili at mag-uninstall ng addon package"
+
+msgid "Error Unknow"
+msgstr "Error na Hindi Alam"
+
+msgid "Force Remove"
+msgstr "Sapilitang Alisin"
+
+msgid "Force Removing ipk %s"
+msgstr "Pilitin ang Pag-alis ng ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Mangyaring Piliin ang Package na Aalisin"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Mangyaring payuhan sa forum board para sa isyu!"
+
+msgid "Remove"
+msgstr "Alisin"
+
+msgid "Removing dpkg %s"
+msgstr "Inaalis ang dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Tinatanggal ang ipk %s"
+
+msgid "Select method:"
+msgstr "Pumili ng paraan:"
+
+msgid "Uninstaller"
+msgstr ""
+
+msgid "Wait Please..."
+msgstr ""

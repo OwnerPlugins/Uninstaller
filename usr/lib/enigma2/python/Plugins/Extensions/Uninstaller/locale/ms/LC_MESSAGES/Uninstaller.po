@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malay <translation-team-ms@lists.sourceforge.net>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Pilih dan nyahpasang pakej addon"
+
+msgid "Error Unknow"
+msgstr "Ralat Tidak Tahu"
+
+msgid "Force Remove"
+msgstr "Paksa Alih Keluar"
+
+msgid "Force Removing ipk %s"
+msgstr "Paksa Mengalih Keluar ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Sila Pilih Pakej untuk Alih Keluar"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Sila beri nasihat di papan forum untuk isu!"
+
+msgid "Remove"
+msgstr "Alih keluar"
+
+msgid "Removing dpkg %s"
+msgstr "Mengalih keluar dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Mengalih keluar ipk %s"
+
+msgid "Select method:"
+msgstr "Pilih kaedah:"
+
+msgid "Uninstaller"
+msgstr "Penyahpasang"
+
+msgid "Wait Please..."
+msgstr "Tolong tunggu..."

@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:13+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Ընտրեք և տեղահանեք հավելումների փաթեթը"
+
+msgid "Error Unknow"
+msgstr "Սխալ Չգիտեմ"
+
+msgid "Force Remove"
+msgstr "Ստիպել հեռացնել"
+
+msgid "Force Removing ipk %s"
+msgstr "Ստիպել հեռացնել ipk %s-ը"
+
+msgid "Please Select the Package to Remove"
+msgstr "Խնդրում ենք ընտրել Փաթեթը, որը պետք է հեռացնել"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Խնդրում ենք խորհուրդ տալ ֆորումի տախտակին խնդրի համար:"
+
+msgid "Remove"
+msgstr "Հեռացնել"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s-ի հեռացում"
+
+msgid "Removing ipk %s"
+msgstr "ipk %s-ի հեռացում"
+
+msgid "Select method:"
+msgstr "Ընտրեք մեթոդ."
+
+msgid "Uninstaller"
+msgstr "Ապատեղադրող"
+
+msgid "Wait Please..."
+msgstr "Սպասեք, խնդրում եմ..."

@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Telugu <(nothing)>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "యాడ్ఆన్ ప్యాకేజీని ఎంచుకుని, అన్‌ఇన్‌స్టాల్ చేయండి"
+
+msgid "Error Unknow"
+msgstr "లోపం తెలియదు"
+
+msgid "Force Remove"
+msgstr "బలవంతంగా తీసివేయండి"
+
+msgid "Force Removing ipk %s"
+msgstr "ipk %sని బలవంతంగా తీసివేయండి"
+
+msgid "Please Select the Package to Remove"
+msgstr "దయచేసి తీసివేయడానికి ప్యాకేజీని ఎంచుకోండి"
+
+msgid "Please advise on forum board for issue!"
+msgstr "దయచేసి సమస్య కోసం ఫోరమ్ బోర్డులో సలహా ఇవ్వండి!"
+
+msgid "Remove"
+msgstr "తొలగించు"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %sని తొలగిస్తోంది"
+
+msgid "Removing ipk %s"
+msgstr "ipk %sని తీసివేస్తోంది"
+
+msgid "Select method:"
+msgstr "పద్ధతిని ఎంచుకోండి:"
+
+msgid "Uninstaller"
+msgstr "అన్‌ఇన్‌స్టాలర్"
+
+msgid "Wait Please..."
+msgstr "దయచేసి వేచి ఉండండి..."

@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Izberite in odstranite paket dodatkov"
+
+msgid "Error Unknow"
+msgstr "Napaka Neznano"
+
+msgid "Force Remove"
+msgstr "Prisilno odstrani"
+
+msgid "Force Removing ipk %s"
+msgstr "Prisilno odstranjevanje ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Izberite paket za odstranitev"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Prosim za nasvet glede forumske plošče za težavo!"
+
+msgid "Remove"
+msgstr "Odstrani"
+
+msgid "Removing dpkg %s"
+msgstr "Odstranjevanje dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Odstranjevanje ipk %s"
+
+msgid "Select method:"
+msgstr "Izberite način:"
+
+msgid "Uninstaller"
+msgstr ""
+
+msgid "Wait Please..."
+msgstr "Počakaj prosim ..."

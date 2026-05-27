@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:09+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Vyberte a odinstalujte balíček doplňků"
+
+msgid "Error Unknow"
+msgstr "Chyba Neznámý"
+
+msgid "Force Remove"
+msgstr "Vynutit odstranění"
+
+msgid "Force Removing ipk %s"
+msgstr "Vynutit odstranění ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Vyberte balíček, který chcete odebrat"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Poraďte prosím na fóru o problému!"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Removing dpkg %s"
+msgstr "Odebírání dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Odebírání ipk %s"
+
+msgid "Select method:"
+msgstr "Vyberte metodu:"
+
+msgid "Uninstaller"
+msgstr "Odinstalátor"
+
+msgid "Wait Please..."
+msgstr "Počkejte prosím..."

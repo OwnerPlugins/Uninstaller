@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Izvēlieties un atinstalējiet papildinājuma pakotni"
+
+msgid "Error Unknow"
+msgstr "Kļūda nezināma"
+
+msgid "Force Remove"
+msgstr "Piespiedu noņemšana"
+
+msgid "Force Removing ipk %s"
+msgstr "Piespiedu kārtā tiek noņemts ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Lūdzu, atlasiet paketi, kuru noņemt"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Lūdzu, konsultējieties foruma dēlī par problēmu!"
+
+msgid "Remove"
+msgstr "Noņemt"
+
+msgid "Removing dpkg %s"
+msgstr "Notiek dpkg %s noņemšana"
+
+msgid "Removing ipk %s"
+msgstr "Notiek ipk %s noņemšana"
+
+msgid "Select method:"
+msgstr "Izvēlieties metodi:"
+
+msgid "Uninstaller"
+msgstr "Atinstalētājs"
+
+msgid "Wait Please..."
+msgstr "Pagaidi lūdzu..."

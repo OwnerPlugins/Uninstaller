@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:09+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bengali <(nothing)>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "একটি অ্যাডন প্যাকেজ চয়ন করুন এবং আনইনস্টল করুন"
+
+msgid "Error Unknow"
+msgstr "ত্রুটি অজানা"
+
+msgid "Force Remove"
+msgstr "জোর করে সরান"
+
+msgid "Force Removing ipk %s"
+msgstr "ipk %s অপসারণ করতে বল করুন৷"
+
+msgid "Please Select the Package to Remove"
+msgstr "অপসারণ করার জন্য প্যাকেজ নির্বাচন করুন"
+
+msgid "Please advise on forum board for issue!"
+msgstr "সমস্যা জন্য ফোরাম বোর্ড পরামর্শ দয়া করে!"
+
+msgid "Remove"
+msgstr "সরান"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s সরানো হচ্ছে"
+
+msgid "Removing ipk %s"
+msgstr "ipk %s সরানো হচ্ছে"
+
+msgid "Select method:"
+msgstr "পদ্ধতি নির্বাচন করুন:"
+
+msgid "Uninstaller"
+msgstr "আনইনস্টলার"
+
+msgid "Wait Please..."
+msgstr "অপেক্ষা করুন প্লিজ..."

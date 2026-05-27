@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:12+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Roghnaigh agus díshuiteáil pacáiste addon"
+
+msgid "Error Unknow"
+msgstr "Earráid Anaithnid"
+
+msgid "Force Remove"
+msgstr "Fórsa Bain"
+
+msgid "Force Removing ipk %s"
+msgstr "Fórsa ipk a bhaint %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Roghnaigh an Pacáiste le Bain as"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Tabhair comhairle ar bord an fhóraim le haghaidh eisiúint!"
+
+msgid "Remove"
+msgstr "Bain"
+
+msgid "Removing dpkg %s"
+msgstr "Dpkg %s á bhaint"
+
+msgid "Removing ipk %s"
+msgstr "Ipk %s á bhaint"
+
+msgid "Select method:"
+msgstr "Roghnaigh modh:"
+
+msgid "Uninstaller"
+msgstr "Díshuiteálaí"
+
+msgid "Wait Please..."
+msgstr "Fan le do thoil..."

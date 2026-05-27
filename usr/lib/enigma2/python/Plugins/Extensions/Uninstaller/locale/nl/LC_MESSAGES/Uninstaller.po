@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Kies en verwijder een add-onpakket"
+
+msgid "Error Unknow"
+msgstr "Fout onbekend"
+
+msgid "Force Remove"
+msgstr "Forceer verwijderen"
+
+msgid "Force Removing ipk %s"
+msgstr "Forceer het verwijderen van ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Selecteer het pakket dat u wilt verwijderen"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Geef alstublieft advies op het forumbord voor problemen!"
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s verwijderen"
+
+msgid "Removing ipk %s"
+msgstr "IPK %s verwijderen"
+
+msgid "Select method:"
+msgstr "Selecteer methode:"
+
+msgid "Uninstaller"
+msgstr "Verwijderprogramma"
+
+msgid "Wait Please..."
+msgstr "Wacht alstublieft..."

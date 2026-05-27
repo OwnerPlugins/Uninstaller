@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Thai <(nothing)>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "เลือกและถอนการติดตั้งแพ็คเกจเสริม"
+
+msgid "Error Unknow"
+msgstr "เกิดข้อผิดพลาด ไม่ทราบ"
+
+msgid "Force Remove"
+msgstr "บังคับเอาออก"
+
+msgid "Force Removing ipk %s"
+msgstr "บังคับให้ลบ ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "โปรดเลือกแพ็คเกจที่จะลบ"
+
+msgid "Please advise on forum board for issue!"
+msgstr "กรุณาแนะนำบนกระดานฟอรั่มสำหรับปัญหา!"
+
+msgid "Remove"
+msgstr "ลบ"
+
+msgid "Removing dpkg %s"
+msgstr "กำลังลบ dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "กำลังลบ ipk %s"
+
+msgid "Select method:"
+msgstr "เลือกวิธีการ:"
+
+msgid "Uninstaller"
+msgstr "โปรแกรมถอนการติดตั้ง"
+
+msgid "Wait Please..."
+msgstr "กรุณารอสักครู่..."

@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Alegeți și dezinstalați un pachet de supliment"
+
+msgid "Error Unknow"
+msgstr "Eroare Necunoscut"
+
+msgid "Force Remove"
+msgstr "Eliminare forțată"
+
+msgid "Force Removing ipk %s"
+msgstr "Forțat eliminarea ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Vă rugăm să selectați pachetul de eliminat"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Vă rugăm să sfătuiți pe forumul pentru probleme!"
+
+msgid "Remove"
+msgstr "Elimina"
+
+msgid "Removing dpkg %s"
+msgstr "Se elimină dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Se elimină ipk %s"
+
+msgid "Select method:"
+msgstr "Alege metoda:"
+
+msgid "Uninstaller"
+msgstr "Dezinstalare"
+
+msgid "Wait Please..."
+msgstr "Așteaptă te rog..."

@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Albanian <translation-team-sq@lists.sourceforge.net>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Zgjidhni dhe çinstaloni një paketë shtesë"
+
+msgid "Error Unknow"
+msgstr "Gabim Nuk dihet"
+
+msgid "Force Remove"
+msgstr "Detyro Hiq"
+
+msgid "Force Removing ipk %s"
+msgstr "Detyrimi i heqjes së ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Ju lutemi zgjidhni paketën për të hequr"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Ju lutemi këshilloni në bordin e forumit për çështjen!"
+
+msgid "Remove"
+msgstr "Hiq"
+
+msgid "Removing dpkg %s"
+msgstr "Po hiqet dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Po hiqet ipk %s"
+
+msgid "Select method:"
+msgstr "Zgjidh metodën:"
+
+msgid "Uninstaller"
+msgstr "Çinstalues"
+
+msgid "Wait Please..."
+msgstr "Prisni ju lutem..."

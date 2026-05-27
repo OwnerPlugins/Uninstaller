@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Burmese\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "addon ပက်ကေ့ဂျ်ကို ရွေးပြီး ဖြုတ်လိုက်ပါ။"
+
+msgid "Error Unknow"
+msgstr "အမှားကို မသိပါ။"
+
+msgid "Force Remove"
+msgstr "အတင်းဖယ်ပါ။"
+
+msgid "Force Removing ipk %s"
+msgstr "ipk %s အား ဖယ်ရှားရန် အတင်းအကြပ်"
+
+msgid "Please Select the Package to Remove"
+msgstr "ကျေးဇူးပြု၍ ဖယ်ရှားရန် ပက်ကေ့ခ်ျကို ရွေးချယ်ပါ။"
+
+msgid "Please advise on forum board for issue!"
+msgstr "ပြဿနာအတွက် ဖိုရမ်ဘုတ်တွင် ကျေးဇူးပြု၍ အကြံပေးပါ။"
+
+msgid "Remove"
+msgstr "ဖယ်ရှားပါ။"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s ကို ဖယ်ရှားခြင်း။"
+
+msgid "Removing ipk %s"
+msgstr "ipk %s ကို ဖယ်ရှားခြင်း။"
+
+msgid "Select method:"
+msgstr "နည်းလမ်းကို ရွေးပါ-"
+
+msgid "Uninstaller"
+msgstr ""
+
+msgid "Wait Please..."
+msgstr "ကျေးဇူးပြုပြီး စောင့်ပါ..."

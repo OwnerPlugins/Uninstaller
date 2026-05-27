@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Maltese <translation-team-mt@lists.sourceforge.net>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Agħżel u ddiżinstalla pakkett addon"
+
+msgid "Error Unknow"
+msgstr "Żball Mhux naf"
+
+msgid "Force Remove"
+msgstr "Forza Neħħi"
+
+msgid "Force Removing ipk %s"
+msgstr "Forza t-Tneħħija ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Jekk jogħġbok Agħżel il-Pakkett li Tneħħi"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Jekk jogħġbok avża fuq il-bord tal-forum għall-ħruġ!"
+
+msgid "Remove"
+msgstr "Neħħi"
+
+msgid "Removing dpkg %s"
+msgstr "Tneħħi dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Tneħħi ipk %s"
+
+msgid "Select method:"
+msgstr "Agħżel il-metodu:"
+
+msgid "Uninstaller"
+msgstr ""
+
+msgid "Wait Please..."
+msgstr "Stenna Jekk jogħġbok..."

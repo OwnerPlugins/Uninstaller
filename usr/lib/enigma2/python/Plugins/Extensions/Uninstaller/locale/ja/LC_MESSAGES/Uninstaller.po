@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:14+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "アドオンパッケージを選択してアンインストールする"
+
+msgid "Error Unknow"
+msgstr "不明なエラー"
+
+msgid "Force Remove"
+msgstr "強制削除"
+
+msgid "Force Removing ipk %s"
+msgstr "IPK %s を強制的に削除しています"
+
+msgid "Please Select the Package to Remove"
+msgstr "削除するパッケージを選択してください"
+
+msgid "Please advise on forum board for issue!"
+msgstr "問題についてはフォーラム掲示板でアドバイスしてください。"
+
+msgid "Remove"
+msgstr "取り除く"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s を削除しています"
+
+msgid "Removing ipk %s"
+msgstr "IPK %s を削除しています"
+
+msgid "Select method:"
+msgstr "方法の選択:"
+
+msgid "Uninstaller"
+msgstr "アンインストーラー"
+
+msgid "Wait Please..."
+msgstr "お待ちください..."

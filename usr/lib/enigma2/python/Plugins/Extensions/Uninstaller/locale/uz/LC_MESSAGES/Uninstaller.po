@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uzbek\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Qo'shimcha paketni tanlang va o'chirib tashlang"
+
+msgid "Error Unknow"
+msgstr "Noma'lum xato"
+
+msgid "Force Remove"
+msgstr "Majburiy olib tashlash"
+
+msgid "Force Removing ipk %s"
+msgstr "Majburiy oʻchirish ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Iltimos, olib tashlash uchun paketni tanlang"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Iltimos, muammo bo'yicha forum kengashiga maslahat bering!"
+
+msgid "Remove"
+msgstr "O'chirish"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s olib tashlanmoqda"
+
+msgid "Removing ipk %s"
+msgstr "ipk %s olib tashlanmoqda"
+
+msgid "Select method:"
+msgstr "Usulni tanlang:"
+
+msgid "Uninstaller"
+msgstr "O'chirish dasturi"
+
+msgid "Wait Please..."
+msgstr "Kuting Iltimos..."

@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-CN\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "选择并卸载插件包"
+
+msgid "Error Unknow"
+msgstr "错误未知"
+
+msgid "Force Remove"
+msgstr "强制删除"
+
+msgid "Force Removing ipk %s"
+msgstr "强制删除 ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "请选择要删除的包"
+
+msgid "Please advise on forum board for issue!"
+msgstr "问题请在论坛留言！"
+
+msgid "Remove"
+msgstr "消除"
+
+msgid "Removing dpkg %s"
+msgstr "正在删除 dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "正在删除 ipk %s"
+
+msgid "Select method:"
+msgstr "选择方法："
+
+msgid "Uninstaller"
+msgstr "卸载程序"
+
+msgid "Wait Please..."
+msgstr "请稍等..."

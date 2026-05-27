@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Marathi <sshedmak@redhat.com>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "ॲडऑन पॅकेज निवडा आणि अनइन्स्टॉल करा"
+
+msgid "Error Unknow"
+msgstr "त्रुटी अज्ञात"
+
+msgid "Force Remove"
+msgstr "सक्तीने काढा"
+
+msgid "Force Removing ipk %s"
+msgstr "ipk %s काढण्याची सक्ती करा"
+
+msgid "Please Select the Package to Remove"
+msgstr "कृपया काढण्यासाठी पॅकेज निवडा"
+
+msgid "Please advise on forum board for issue!"
+msgstr "कृपया समस्येसाठी मंच बोर्डवर सल्ला द्या!"
+
+msgid "Remove"
+msgstr "काढा"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s काढून टाकत आहे"
+
+msgid "Removing ipk %s"
+msgstr "ipk %s काढत आहे"
+
+msgid "Select method:"
+msgstr "पद्धत निवडा:"
+
+msgid "Uninstaller"
+msgstr "अनइन्स्टॉलर"
+
+msgid "Wait Please..."
+msgstr "कृपया थांबा..."

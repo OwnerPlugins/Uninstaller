@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:22+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Виберіть і видаліть пакет аддонів"
+
+msgid "Error Unknow"
+msgstr "Помилка Невідомо"
+
+msgid "Force Remove"
+msgstr "Примусово видалити"
+
+msgid "Force Removing ipk %s"
+msgstr "Примусове видалення ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Будь ласка, виберіть пакет для видалення"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Будь ласка, повідомте про дошку форуму для проблеми!"
+
+msgid "Remove"
+msgstr "видалити"
+
+msgid "Removing dpkg %s"
+msgstr "Видалення dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Видалення ipk %s"
+
+msgid "Select method:"
+msgstr "Виберіть спосіб:"
+
+msgid "Uninstaller"
+msgstr "Деінсталятор"
+
+msgid "Wait Please..."
+msgstr "Зачекайте, будь ласка..."

@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:15+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kurdish <translation-team-ku (at) ferheng.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Pakêtek addon hilbijêrin û rakirin"
+
+msgid "Error Unknow"
+msgstr "Çewtî Nezanî"
+
+msgid "Force Remove"
+msgstr "Bi zorê jêbirin"
+
+msgid "Force Removing ipk %s"
+msgstr "Bi zorê Rakirina ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Ji kerema xwe Pakêta Rakirina Hilbijêre"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Ji kerema xwe li ser forumê ji bo pirsgirêkê şîret bikin!"
+
+msgid "Remove"
+msgstr "Dûrxistin"
+
+msgid "Removing dpkg %s"
+msgstr "Dpkg %s tê rakirin"
+
+msgid "Removing ipk %s"
+msgstr "ipk %s tê rakirin"
+
+msgid "Select method:"
+msgstr "Rêbazê hilbijêrin:"
+
+msgid "Uninstaller"
+msgstr "Rakirin"
+
+msgid "Wait Please..."
+msgstr "Bisekine Ji kerema xwe..."

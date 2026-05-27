@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:13+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Válasszon és távolítson el egy kiegészítő csomagot"
+
+msgid "Error Unknow"
+msgstr "Hiba Ismeretlen"
+
+msgid "Force Remove"
+msgstr "Kényszer eltávolítás"
+
+msgid "Force Removing ipk %s"
+msgstr "Az ipk %s kényszerített eltávolítása"
+
+msgid "Please Select the Package to Remove"
+msgstr "Kérjük, válassza ki az eltávolítani kívánt csomagot"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Kérjük, adjon tanácsot a fórum fórumán a problémával kapcsolatban!"
+
+msgid "Remove"
+msgstr "Távolítsa el"
+
+msgid "Removing dpkg %s"
+msgstr "Dpkg %s eltávolítása"
+
+msgid "Removing ipk %s"
+msgstr "Az ipk %s eltávolítása"
+
+msgid "Select method:"
+msgstr "Válassza ki a módszert:"
+
+msgid "Uninstaller"
+msgstr "Eltávolító"
+
+msgid "Wait Please..."
+msgstr "Várj kérlek..."

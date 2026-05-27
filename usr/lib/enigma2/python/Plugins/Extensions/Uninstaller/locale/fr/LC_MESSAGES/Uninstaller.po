@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:11+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: French <traduc@traduc.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Choisir et désinstaller un package complémentaire"
+
+msgid "Error Unknow"
+msgstr "Erreur inconnue"
+
+msgid "Force Remove"
+msgstr "Forcer la suppression"
+
+msgid "Force Removing ipk %s"
+msgstr "Forcer la suppression de l'ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Veuillez sélectionner le package à supprimer"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Veuillez signaler le problème sur le forum !"
+
+msgid "Remove"
+msgstr "Retirer"
+
+msgid "Removing dpkg %s"
+msgstr "Suppression de dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Suppression de l'IPK %s"
+
+msgid "Select method:"
+msgstr "Sélectionnez la méthode :"
+
+msgid "Uninstaller"
+msgstr "Désinstallateur"
+
+msgid "Wait Please..."
+msgstr "Attendez s'il vous plaît..."

@@ -1,0 +1,54 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Vyberte a odinštalujte balík doplnkov"
+
+msgid "Error Unknow"
+msgstr "Chyba Neznáma"
+
+msgid "Force Remove"
+msgstr "Vynútiť odstránenie"
+
+msgid "Force Removing ipk %s"
+msgstr "Vynútiť odstránenie ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Vyberte balík, ktorý chcete odstrániť"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Poraďte prosím na fóre s problémom!"
+
+msgid "Remove"
+msgstr "Odstrániť"
+
+msgid "Removing dpkg %s"
+msgstr "Odstraňuje sa dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Odstraňuje sa ipk %s"
+
+msgid "Select method:"
+msgstr "Vyberte metódu:"
+
+msgid "Uninstaller"
+msgstr "Odinštalátor"
+
+msgid "Wait Please..."
+msgstr "Počkajte prosím..."

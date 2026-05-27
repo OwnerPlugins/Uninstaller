@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:09+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bosnian <mtodorov@alu.hr>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Odaberite i deinstalirajte dodatni paket"
+
+msgid "Error Unknow"
+msgstr "Greška nepoznata"
+
+msgid "Force Remove"
+msgstr "Prisilno ukloni"
+
+msgid "Force Removing ipk %s"
+msgstr "Prisilno uklanjanje ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Molimo odaberite paket za uklanjanje"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Molimo vas da posavjetujete forum za problem!"
+
+msgid "Remove"
+msgstr "Ukloni"
+
+msgid "Removing dpkg %s"
+msgstr "Uklanjanje dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "Uklanjanje ipk %s"
+
+msgid "Select method:"
+msgstr "Odaberite metodu:"
+
+msgid "Uninstaller"
+msgstr ""
+
+msgid "Wait Please..."
+msgstr "Sačekajte molim vas..."

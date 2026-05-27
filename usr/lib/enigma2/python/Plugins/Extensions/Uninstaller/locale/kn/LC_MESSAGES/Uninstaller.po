@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:15+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kannada <debian-l10n-kannada@lists.debian.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "ಆಡ್ಆನ್ ಪ್ಯಾಕೇಜ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಅಸ್ಥಾಪಿಸಿ"
+
+msgid "Error Unknow"
+msgstr "ದೋಷ ತಿಳಿದಿಲ್ಲ"
+
+msgid "Force Remove"
+msgstr "ಬಲವಂತವಾಗಿ ತೆಗೆದುಹಾಕಿ"
+
+msgid "Force Removing ipk %s"
+msgstr "ipk %s ಅನ್ನು ಬಲವಂತವಾಗಿ ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ"
+
+msgid "Please Select the Package to Remove"
+msgstr "ದಯವಿಟ್ಟು ತೆಗೆದುಹಾಕಲು ಪ್ಯಾಕೇಜ್ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Please advise on forum board for issue!"
+msgstr "ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಗಾಗಿ ಫೋರಮ್ ಬೋರ್ಡ್‌ನಲ್ಲಿ ಸಲಹೆ ನೀಡಿ!"
+
+msgid "Remove"
+msgstr "ತೆಗೆದುಹಾಕಿ"
+
+msgid "Removing dpkg %s"
+msgstr "dpkg %s ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ"
+
+msgid "Removing ipk %s"
+msgstr "ipk %s ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ"
+
+msgid "Select method:"
+msgstr "ವಿಧಾನವನ್ನು ಆಯ್ಕೆಮಾಡಿ:"
+
+msgid "Uninstaller"
+msgstr "ಅನ್‌ಇನ್‌ಸ್ಟಾಲರ್"
+
+msgid "Wait Please..."
+msgstr "ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ..."

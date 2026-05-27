@@ -1,0 +1,53 @@
+# Uninstaller translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uninstaller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:09+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose and uninstall an addon package"
+msgstr "Trieu i desinstal·leu un paquet de complements"
+
+msgid "Error Unknow"
+msgstr "Error Desconegut"
+
+msgid "Force Remove"
+msgstr "Força l'eliminació"
+
+msgid "Force Removing ipk %s"
+msgstr "Força l'eliminació de ipk %s"
+
+msgid "Please Select the Package to Remove"
+msgstr "Seleccioneu el paquet que voleu eliminar"
+
+msgid "Please advise on forum board for issue!"
+msgstr "Si us plau, aviseu al tauler del fòrum sobre el problema!"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Removing dpkg %s"
+msgstr "S'està eliminant dpkg %s"
+
+msgid "Removing ipk %s"
+msgstr "S'està eliminant ipk %s"
+
+msgid "Select method:"
+msgstr "Seleccioneu el mètode:"
+
+msgid "Uninstaller"
+msgstr "Desinstal·lador"
+
+msgid "Wait Please..."
+msgstr "Espereu si us plau..."
